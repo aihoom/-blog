@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>陪你度过漫长岁月</title>
   <id>http://so.i520.in</id>
-  <updated>2017-08-23T17:35:59+08:00</updated>
+  <updated>2017-08-23T19:15:30+08:00</updated>
   <subtitle>真诚祝愿你挨到新天地</subtitle>
   <link href="http://so.i520.in"></link>
   <author>
     <name>陪你度过漫长岁月</name>
   </author>
   <entry>
-    <title>简洁的静态博客构建工具 —— 纸小墨（InkPaper）</title>
+    <title>如何搭建你的静态博客</title>
     <updated>2017-08-23T16:59:26+08:00</updated>
     <id>tag:so.i520.in,2017-08-23:/ru-he-shi-yong-github-da-jian.html</id>
     <content type="html">&lt;p&gt;纸小墨（InkPaper）是一个GO语言编写的开源静态博客构建工具，可以快速搭建博客网站。它无依赖跨平台，配置简单构建快速，注重简洁易用与更优雅的排版。&lt;/p&gt;&#xA;</content>
     <link href="http://so.i520.in/ru-he-shi-yong-github-da-jian.html"></link>
+    <author>
+      <name>AmaY</name>
+    </author>
+  </entry>
+  <entry>
+    <title>如何使用Github搭建属于你的免费Blog</title>
+    <updated>2017-08-23T16:59:26+08:00</updated>
+    <id>tag:so.i520.in,2017-08-23:/sad.html</id>
+    <content type="html"></content>
+    <link href="http://so.i520.in/sad.html"></link>
     <author>
       <name>AmaY</name>
     </author>

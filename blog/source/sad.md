@@ -1,15 +1,12 @@
-title: "简洁的静态博客构建工具 —— 纸小墨（InkPaper）"
-date: 2017-08-23 16:59:26 +0800
-update: 2017-08-23 16:59:26 +0800
+title: 如何使用Github搭建属于你的免费Blog
+date: 2017-08-23 16:59:26
 author: me
-cover: "-/images/gihub.png"
+
 tags:
     - 教程
-    
-preview: 纸小墨（InkPaper）是一个GO语言编写的开源静态博客构建工具，可以快速搭建博客网站。它无依赖跨平台，配置简单构建快速，注重简洁易用与更优雅的排版。
+    - 博客
 
 ---
-
 今天使用纸小墨静态博客程序搭建了测试博客，并且用上了了Github
 
 ### 开始搭建
@@ -28,3 +25,5 @@ preview: 纸小墨（InkPaper）是一个GO语言编写的开源静态博客构�
 
 
   [1]: ./images/github.png "github"
+  
+  
